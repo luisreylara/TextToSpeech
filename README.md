@@ -14,5 +14,6 @@ parameters: Word,  pitch, speed
   
   ## Text to Speech - Android Studio Tutorial
   * https://www.youtube.com/watch?v=DoYnz0GYN1w
+  * https://gist.github.com/codinginflow/3091cb7f7d165359da1b173794094752
 
   
